@@ -66,6 +66,7 @@ public class SomeClass
 }
 public class MyBenchmark
 {
+    //used for doing benchmark testing
     [Benchmark]
     public void CalculatePrimes()
     {
